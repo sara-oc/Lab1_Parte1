@@ -1,4 +1,4 @@
-# 💻 Laboratorio 1
+# 💻 Laboratorio 1 - Parte 1
 
 Este repositorio contiene el desarrollo del laboratorio de **Machine Learning y Deep Learning**
 
